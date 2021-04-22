@@ -1,5 +1,6 @@
 [![Header](https://github.com/PierreBreny/PierreBreny/blob/main/GITHUB%20HEADER%20README.png "Header")](https://github.com/PierreBreny/)
-
+# Pierre Breny
+## Trainee Web Developer 
 
 ### Hi there 👋
 
