@@ -4,8 +4,6 @@
 
 Hi, I'm Pierre and welcome to my Readme.
 
-I'm a world traveler with an obsession for mastering every area of my life, fulfilling my potential as a human being and making a difference in the lives of others.
-
 ### My 3 most surprising skills:
 1. Playing the guitar
 2. Walking for days
