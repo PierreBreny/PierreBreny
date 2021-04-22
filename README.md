@@ -11,7 +11,7 @@ Hi, I'm Pierre and welcome to my Readme.
 
 ### 3 things I like the most in this universe:
 
-1. My wife
+1. Learning new things
 2. Traveling
 3. Spending time with my family
 
